@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo apt update -y
 sudo apt install unzip tmux git -y
 sudo apt install build-essential -y
