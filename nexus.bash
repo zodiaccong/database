@@ -10,5 +10,6 @@ sudo chmod +x /usr/local/bin/protoc
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 . "$HOME/.cargo/env"
 source $HOME/.cargo/env
+cd
 tmux
 curl https://cli.nexus.xyz/ | sh
